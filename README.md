@@ -22,3 +22,4 @@ npm run start:dev
 Déployé sur Vercel (détection NestJS automatique via `src/main.ts`).
 
 Les données sont en mémoire : elles ne sont pas persistées.
+# anomaly-api
